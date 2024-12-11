@@ -2,7 +2,12 @@
 
 # Estrategia de Marketing Integral para REFRICONTROLS
 
+![descripcion de la imagen](https://github.com/AnthonyRefricontrols/REFRICONTROLS/blob/main/ea1773e1-b758-4b8a-951b-cd0232aaca72.jpg?raw=true)
+
+
 ## 1. Análisis de Mercado y Segmentación
+
+
 
 ### Análisis del Mercado Objetivo
 - Realizar un estudio de mercado profundo, identificando tendencias de refrigeración en sectores doméstico, comercial e industrial.
