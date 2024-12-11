@@ -60,3 +60,8 @@ Cada propuesta debe resaltar la adaptabilidad y sostenibilidad de los productos 
 Esta estrategia se basa en la segmentación precisa del mercado y en la diferenciación del producto, pilares que permiten una propuesta de valor clara para cada sector. Las campañas de contenido técnico y los incentivos a distribuidores están diseñados para maximizar el alcance en segmentos claves y fomentar la lealtad, aspectos esenciales en un mercado de alta especialización como el de los controles de refrigeración.
 
 Este plan proporciona a REFRICONTROLS una hoja de ruta clara y bien fundamentada para consolidarse como un líder en el mercado y maximizar su penetración en cada segmento clave.
+
+
+![descripcion de la imagen](https://github.com/AnthonyRefricontrols/REFRICONTROLS/blob/main/Aluminum%20Soda%20Can%20Mockup%20Surrounded%20By%20Lush%20Green%20Foliage.png?raw=true)
+
+
