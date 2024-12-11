@@ -29,6 +29,8 @@ Posicionar a REFRICONTROLS como el proveedor líder de tecnología avanzada en c
 
 Cada propuesta debe resaltar la adaptabilidad y sostenibilidad de los productos REFRICONTROLS, asegurando eficiencia operativa y ahorro energético.
 
+![descripcion de la imagen](https://raw.githubusercontent.com/AnthonyRefricontrols/REFRICONTROLS/refs/heads/main/DALL·E%202024-12-03%2022.21.37%20-%20A%20minimalist%20logo%20design%20for%20a%20company%20named%20'REFRICONTROLS'.%20The%20design%20features%20the%20company%20name%20in%20a%20modern%2C%20technological%20font%20with%20clean%20lines%20an.webp)
+
 ## 3. Estrategia de Canales de Marketing y Embudo de Ventas
 
 ### Medios Digitales
