@@ -64,4 +64,7 @@ Este plan proporciona a REFRICONTROLS una hoja de ruta clara y bien fundamentada
 
 ![descripcion de la imagen](https://github.com/AnthonyRefricontrols/REFRICONTROLS/blob/main/Aluminum%20Soda%20Can%20Mockup%20Surrounded%20By%20Lush%20Green%20Foliage.png?raw=true)
 
+![descripcion de la imagen](https://github.com/AnthonyRefricontrols/REFRICONTROLS/blob/main/Aluminum%20Soda%20Can%20Mockup%20Surrounded%20By%20Lush%20Greenery.png?raw=true)
+
+
 
